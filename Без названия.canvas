@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"7fb8a6004a695029","type":"file","file":"Файлы/0d28e870b1f98473cd549a7aa3d41d99.jpg","x":290,"y":-14,"width":225,"height":400},
+		{"id":"7fffa84a4c0542a9","type":"file","file":"Файлы/0eea8165f4a842b77bea32d39c3fe803.jpg","x":-60,"y":-14,"width":320,"height":400},
+		{"id":"d88456b41cf7e644","type":"file","file":"Файлы/1df313ee20567d518ce1c21b712baf89.jpg","x":-480,"y":-5,"width":400,"height":391}
+	],
+	"edges":[]
+}

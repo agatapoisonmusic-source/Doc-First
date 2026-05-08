@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "31aab02d3da7b1f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bfbc3fa8ea3c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c36597b45b9953",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb6244c02658830d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7453f6c2dc7c821b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a70edbcd9566215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b3c13ceaab4dbd4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "10348143e11889b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "f2f0ae9cb40e6b90",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4aa30f7e80ea8724",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ff8a76118fbc6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f644e2509339c1a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Проектирование/Проектирование/Безопасность.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Безопасность"
+            }
+          },
+          {
+            "id": "2df902dc2e3f9ac1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Проектирование/Проектирование/Безопасность.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Безопасность"
+            }
+          },
+          {
+            "id": "2548779bc562a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9ab7765fe9c95b4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "b4c4d7e93e68fef9",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "f2f0ae9cb40e6b90",
+  "lastOpenFiles": [
+    "Первый коммит.md",
+    "Product Managment/SCAMPER - что это и как использовать.md",
+    "Product Managment/Opportunity Solution Tree - что это и зачем.md",
+    "Product Managment/Без названия.md",
+    "Product Managment/Основные источники гипотез.md",
+    "Сбор требований/Без названия.md",
+    "//Сбор требований1.md",
+    "Сбор требований1.md",
+    "Сбор требований/Сбор требований.md",
+    "Сбор требований",
+    "Музыка/Без названия.md",
+    "Музыка/Без названия 1.md",
+    "Музыка/Музыка.md",
+    "Музыка",
+    "!!! TEMP !!!.md",
+    "Без названия.canvas",
+    "Файлы/1df313ee20567d518ce1c21b712baf89.jpg",
+    "Файлы/0eea8165f4a842b77bea32d39c3fe803.jpg",
+    "Файлы/0d28e870b1f98473cd549a7aa3d41d99.jpg",
+    "Без названия 1.md",
+    "Файлы/Pasted image 20241211122842.png",
+    "2026-03-26.md",
+    "Навыки и Книги/3d09b9a1db6096466acc212c92603fb9.jpg",
+    "Навыки и Книги/3e0f5c69332a946ac64bfbefc9da028d 1.jpg",
+    "Навыки и Книги/2dbe6195ef8460c7bfe9c201d0244d17.jpg",
+    "Навыки и Книги/1e71cc388abd4713a8be92916aa0486d.jpg",
+    "Навыки и Книги/3edd4b9c19108975bcba890c3feb1a41.jpg",
+    "Навыки и Книги/3e0f5c69332a946ac64bfbefc9da028d.jpg",
+    "Навыки и Книги/Оценка задач.md",
+    "Навыки и Книги/Вопросы (список для 1-1).md",
+    "Файлы/Файлы.md",
+    "Файлы",
+    "Проектирование/Проектирование/Микросервисы.md",
+    "Постановка задач/Backend/Без названия.md",
+    "Постановка задач/Backend/Описание статусной модели.md",
+    "Постановка задач/Backend/Backend.md",
+    "Постановка задач/Backend",
+    "Постановка задач/Frontend/Frontend.md",
+    "Постановка задач/Frontend",
+    "Постановка задач/Без названия.md",
+    "Постановка задач/Постановка задач.md",
+    "Постановка задач",
+    "Проектирование/Проектирование/Сбор требований/Use Cases.md",
+    "Проектирование/Проектирование/Интеграции",
+    "Навыки и Книги",
+    "Проектирование/Проектирование/Базы данных",
+    "Tags",
+    "Без названия 1.canvas"
+  ]
+}
