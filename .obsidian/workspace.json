@@ -11,10 +11,14 @@
             "id": "19c36597b45b9953",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Навыки и Книги/System Design/SYSTEM DESIGN - SENIOR SA ШПАРГАЛКА.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "SYSTEM DESIGN - SENIOR SA ШПАРГАЛКА"
             }
           }
         ]
@@ -188,7 +192,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f2f0ae9cb40e6b90",
+  "active": "19c36597b45b9953",
   "lastOpenFiles": [
     "Проектирование/CNETS/Связи сервисов CNETS - 02 trade portfolio market.md",
     "Проектирование/CNETS/Связи сервисов CNETS - 01 core.md",
