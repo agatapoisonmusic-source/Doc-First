@@ -11,10 +11,14 @@
             "id": "6d00692faa48930c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ИИ/Системные промты/Помощник аналитика.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Помощник аналитика"
             }
           }
         ]
@@ -82,7 +86,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,7 +204,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7a70edbcd9566215",
+  "active": "6d00692faa48930c",
   "lastOpenFiles": [
     "ИИ/Системные промты/Подготовка вопросов для интервью.md",
     "ИИ/Системные промты/Промт для проверки понятности и качества постановки задачи.md",
