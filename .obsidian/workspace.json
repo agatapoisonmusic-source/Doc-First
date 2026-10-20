@@ -11,14 +11,12 @@
             "id": "6d00692faa48930c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "ИИ/Системные промты/Помощник аналитика.md",
-                "mode": "source",
-                "source": false
+                "path": "ИИ"
               },
               "icon": "lucide-file",
-              "title": "Помощник аналитика"
+              "title": "ИИ"
             }
           }
         ]
