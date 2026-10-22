@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "ИИ"
             }
+          },
+          {
+            "id": "c5eda03497d39a48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,12 +210,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
       "random-note:Открыть случайную заметку": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6d00692faa48930c",
+  "active": "c5eda03497d39a48",
   "lastOpenFiles": [
     "ИИ/Системные промты/Подготовка вопросов для интервью.md",
     "ИИ/Системные промты/Промт для проверки понятности и качества постановки задачи.md",
