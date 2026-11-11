@@ -39,16 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ/Системные промты/Промт для проверки понятности и качества постановки задачи.md",
+                "file": "ИИ/Системные промты/Подготовка вопросов для интервью.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промт для проверки понятности и качества постановки задачи"
+              "title": "Подготовка вопросов для интервью"
+            }
+          },
+          {
+            "id": "d1d03b86b2b1aca6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.15.0"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,8 +216,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
             }
           }
         ],
@@ -226,11 +238,10 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "random-note:Открыть случайную заметку": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5b7f439e9f965b32",
+  "active": "d1d03b86b2b1aca6",
   "lastOpenFiles": [
     "ИИ/Системные промты/Подготовка вопросов для интервью.md",
     "ИИ/Системные промты/Промт для проверки понятности и качества постановки задачи.md",
