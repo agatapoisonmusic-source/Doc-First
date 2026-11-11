@@ -11,12 +11,14 @@
             "id": "4875e443e8fd0f04",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "ИИ/Обычные промты"
+                "file": "ИИ/Промт-инженерия/Промт-каркас SA.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Обычные промты"
+              "title": "Промт-каркас SA"
             }
           }
         ]
@@ -200,8 +202,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c9bad11cee6d1c08",
+  "active": "4875e443e8fd0f04",
   "lastOpenFiles": [
+    "ИИ/Промт-инженерия/Библиотека промтов.md",
+    "ИИ/Промт-инженерия/Промт-каркас SA.md",
+    "ИИ/Промт-инженерия/Решения по скиллам.md",
+    "ИИ/Промт-инженерия",
     "ИИ/!! Шаблон промта.md",
     "ИИ/Обычные промты/Генерация тест-кейсов.md",
     "ИИ/Обычные промты/Эндпоинт в Asciidoc.md",
@@ -231,13 +237,9 @@
     "Навыки и Книги/System Design/Вопросы - API, security, data и NFR.md",
     "Навыки и Книги/System Design/Вопросы - distributed systems и микросервисы.md",
     "Навыки и Книги/System Design/System Design.md",
-    "Навыки и Книги/System Design/SYSTEM DESIGN - SENIOR SA ШПАРГАЛКА.md",
-    "Навыки и Книги/System Design/HIGHLOAD системы.md",
     "Навыки и Книги/System Design",
     "Текстовый документ.txt",
     "New file",
-    "Первый коммит.md",
-    "Сбор требований",
     "Без названия.canvas",
     "Файлы/1df313ee20567d518ce1c21b712baf89.jpg",
     "Файлы/0eea8165f4a842b77bea32d39c3fe803.jpg",
