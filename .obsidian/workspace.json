@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Промт-каркас SA"
             }
+          },
+          {
+            "id": "8a5e16f5acd37ae6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "4875e443e8fd0f04",
+  "active": "8a5e16f5acd37ae6",
   "lastOpenFiles": [
     "ИИ/Промт-инженерия/Библиотека промтов.md",
     "ИИ/Промт-инженерия/Промт-каркас SA.md",
