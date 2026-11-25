@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ/Промт-инженерия/Промт-каркас SA.md",
+                "file": "ИИ/Обычные промты/Упрощение документации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промт-каркас SA"
-            }
-          },
-          {
-            "id": "8a5e16f5acd37ae6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.15.1"
+              "title": "Упрощение документации"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8a5e16f5acd37ae6",
+  "active": "4875e443e8fd0f04",
   "lastOpenFiles": [
     "ИИ/Промт-инженерия/Библиотека промтов.md",
     "ИИ/Промт-инженерия/Промт-каркас SA.md",
